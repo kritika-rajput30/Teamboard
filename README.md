@@ -100,9 +100,6 @@ We’ve developed an all-encompassing guide for this project that explains:
 
 ---
 
-### 📺 Like, Share & Subscribe  
-
-Don’t miss out! **[Subscribe to the Channel](https://tinyurl.com/subcribe-to-techwithEmma)** for more amazing content and exciting projects.  
 
 Now, let’s dive into the demo of **TeamSync**! 🚀
 
